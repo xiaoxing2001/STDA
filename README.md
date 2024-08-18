@@ -1,1 +1,2 @@
-# STDA
+# STDA: Domain Adaptive Semantic Segmentation of Remote Sensing Images via Self Training-based Dual-level Data Augmentation
+## The code is being sorted out and will be fully released after the article is accepted
